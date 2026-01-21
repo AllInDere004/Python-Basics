@@ -1,2 +1,8 @@
 # Python-Basics
-# Python basics code
+### Python basics code
+<br>
+here are basic programs like sum of two numbers, typecasting,
+<br>
+many conditional statement practice set and small projects
+<br>
+more about loops and there small programs
