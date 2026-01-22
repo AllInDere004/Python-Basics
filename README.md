@@ -1,5 +1,6 @@
 # Python-Basics
 ### Python basics code
+Author: Soumalya Dere
 <br>
 here are basic programs like sum of two numbers, typecasting,
 <br>
