@@ -1,6 +1,7 @@
 # Python-Basics
-### Python basics code
-Author: Soumalya Dere
+## Python basics code
+### Author: Soumalya Dere
+#### All programs are in jupiter notebook format
 <br>
 here are basic programs like sum of two numbers, typecasting,
 <br>
